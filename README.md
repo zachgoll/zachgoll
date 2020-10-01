@@ -29,6 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bluehost primary, add-on, parked, and subdomains explained (& how to have 2+ WP sites w/Basic Plan)](https://www.youtube.com/watch?v=5wJ4IGgbxB0)
+- [Create a WordPress Website in 20 Minutes with Bluehost (2020)](https://www.youtube.com/watch?v=iz4SHaK86Wg)
+- [How to Setup An Email Address with Bluehost and Connect it to Gmail/Outlook (2020)](https://www.youtube.com/watch?v=-mm8ExRxjoE)
+- [How to Read RxJS Marble Diagrams](https://www.youtube.com/watch?v=m6jkzIHMEdg)
+- [3 Things I Wish I Knew When I Started Using Angular 2+](https://www.youtube.com/watch?v=mC9rISej1nE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

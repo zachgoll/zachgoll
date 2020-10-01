@@ -19,7 +19,7 @@
 [<img align="left" alt="NestJS" width="26px" src="./icons/nestjs.svg" />][youtube]
 [<img align="left" alt="PassportJS" width="26px" src="./icons/passportjs.png" />][passportjsplaylist]
 [<img align="left" alt="Git" width="26px" src="./icons/git.png" />][gitplaylist]
-[<img align="left" alt="Bash" width="26px" src="./icons/bash.png" />][bashplaylist]
+[<img align="left" alt="Bash" width="80px" src="./icons/bash.png" />][bashplaylist]
 
 <br />
 <br />
@@ -29,6 +29,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Bluehost primary, add-on, parked, and subdomains explained (& how to have 2+ WP sites w/Basic Plan)](https://www.youtube.com/watch?v=5wJ4IGgbxB0)
 - [Create a WordPress Website in 20 Minutes with Bluehost (2020)](https://www.youtube.com/watch?v=iz4SHaK86Wg)
 - [How to Setup An Email Address with Bluehost and Connect it to Gmail/Outlook (2020)](https://www.youtube.com/watch?v=-mm8ExRxjoE)

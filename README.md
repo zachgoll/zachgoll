@@ -19,7 +19,7 @@
 [<img align="left" alt="NestJS" width="26px" src="./icons/nestjs.svg" />][youtube]
 [<img align="left" alt="PassportJS" width="26px" src="./icons/passportjs.png" />][passportjsplaylist]
 [<img align="left" alt="Git" width="26px" src="./icons/git.png" />][gitplaylist]
-[<img align="left" alt="Bash" width="80px" src="./icons/linux.png" />][bashplaylist]
+[<img align="left" alt="Bash" width="26px" src="./icons/linux.png" />][bashplaylist]
 
 <br />
 <br />

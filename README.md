@@ -16,7 +16,8 @@
 ### Languages and Tools (just a few of my favorites):
 
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" />][medium]
-[<img align="left" alt="Express" width="26px" src="./icons/nestjs.svg" />][]
+[<img align="left" alt="NestJS" width="26px" src="./icons/nestjs.svg" />][youtube]
+[<img align="left" alt="PassportJS" width="26px" src="./icons/passportjs.png" />][passportjsplaylist]
 
 <br />
 <br />

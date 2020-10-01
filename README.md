@@ -15,9 +15,11 @@
 
 ### Languages and Tools (just a few of my favorites):
 
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" />][medium]
+[<img align="left" alt="Angular" width="26px" src="./icons/angular.png" />][medium]
 [<img align="left" alt="NestJS" width="26px" src="./icons/nestjs.svg" />][youtube]
 [<img align="left" alt="PassportJS" width="26px" src="./icons/passportjs.png" />][passportjsplaylist]
+[<img align="left" alt="Git" width="26px" src="./icons/git.png" />][gitplaylist]
+[<img align="left" alt="Bash" width="26px" src="./icons/bash.png" />][bashplaylist]
 
 <br />
 <br />

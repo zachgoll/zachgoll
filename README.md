@@ -15,7 +15,8 @@
 
 ### Languages and Tools (just a few of my favorites):
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" />][medium]
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" />][medium]
+[<img align="left" alt="Express" width="26px" src="./icons/nestjs.svg" />][]
 
 <br />
 <br />

@@ -1,8 +1,8 @@
 ### Hi there, I'm Zach. I'm a Fullstack Dev (but mostly Angular), golfer, and amateurish runner
 
-- ⛳ Just launched a golf performance app: [Eagle Eye Performance][golfapp]!
-- 🏌 Also have a golf blog: [The DIY Golfer][golfblog]
-- 🎥 I enjoy writing web development tutorials and making vids
+- ⛳ Just launched a golf performance app: [Eagle Eye Performance][golfapp]
+- 🏌 I also have a golf blog: [The DIY Golfer][golfblog]
+- 🎥 I enjoy writing [web development tutorials][medium] and [making vids][youtube]
 
 ### Connect with me:
 
@@ -19,7 +19,7 @@
 [<img align="left" alt="NestJS" width="26px" src="./icons/nestjs.svg" />][youtube]
 [<img align="left" alt="PassportJS" width="26px" src="./icons/passportjs.png" />][passportjsplaylist]
 [<img align="left" alt="Git" width="26px" src="./icons/git.png" />][gitplaylist]
-[<img align="left" alt="Bash" width="80px" src="./icons/bash.png" />][bashplaylist]
+[<img align="left" alt="Bash" width="80px" src="./icons/linux.png" />][bashplaylist]
 
 <br />
 <br />

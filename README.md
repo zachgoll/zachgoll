@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your JavaScript date is off by 1 day: A Complete Guide to JavaScript Dates](https://medium.com/@zach.gollwitzer/why-your-javascript-date-is-off-by-1-day-a-complete-guide-to-javascript-dates-10a973fb9b1f?source=rss-e77c4aee819e------2)
+- [A Complete Guide to JavaScript Dates](https://medium.com/javascript-in-plain-english/why-your-javascript-date-is-off-by-1-day-a-complete-guide-to-javascript-dates-10a973fb9b1f?source=rss-e77c4aee819e------2)
 - [Bluehost + WordPress: Your Complete Guide to Starting a Website / Blog (Part 1 — Setup)](https://medium.com/@zach.gollwitzer/bluehost-wordpress-your-complete-guide-to-starting-a-website-blog-part-1-setup-9a2d2e812796?source=rss-e77c4aee819e------2)
 - [Demystifying Bluehost: Primary Domains, Parked Domains, Subdomains, and Add-On Domains](https://medium.com/@zach.gollwitzer/demystifying-bluehost-primary-domains-parked-domains-subdomains-and-add-on-domains-5608d35946b?source=rss-e77c4aee819e------2)
 - [Which Bluehost Hosting Plan Is Best for ME? (2020)](https://medium.com/@zach.gollwitzer/which-bluehost-hosting-plan-is-best-for-me-2020-8d67b6b0356f?source=rss-e77c4aee819e------2)

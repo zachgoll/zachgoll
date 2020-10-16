@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 Mistakes I Made While Teaching Myself to Code](https://www.youtube.com/watch?v=osY6kBLy6Ic)
 - [Can you actually learn to code in 3 months?](https://www.youtube.com/watch?v=ioTsNeYFjik)
 - [How I Taught Myself to Code (4 Year Update)](https://www.youtube.com/watch?v=Zr73KfbiSu0)
 - [Fixing an "off by 1" JavaScript Date Bug in my App (Code with Me Series)](https://www.youtube.com/watch?v=LVvoCp36iiA)
 - [Bluehost primary, add-on, parked, and subdomains explained (& how to have 2+ WP sites w/Basic Plan)](https://www.youtube.com/watch?v=5wJ4IGgbxB0)
-- [Create a WordPress Website in 20 Minutes with Bluehost (2020)](https://www.youtube.com/watch?v=iz4SHaK86Wg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

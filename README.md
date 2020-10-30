@@ -29,7 +29,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What the heck is an API? (with AI text bot example)](https://www.youtube.com/watch?v=snRjHNyljrg)
+- [What is an API? (with AI text bot example)](https://www.youtube.com/watch?v=snRjHNyljrg)
 - [Do you have to be good at math to learn to code? (and a brief overview of programming disciplines)](https://www.youtube.com/watch?v=J0l-GzF-I64)
 - [3 Mistakes I Made While Teaching Myself to Code](https://www.youtube.com/watch?v=osY6kBLy6Ic)
 - [Can you actually learn to code in 3 months?](https://www.youtube.com/watch?v=ioTsNeYFjik)

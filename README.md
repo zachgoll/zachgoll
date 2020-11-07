@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Is it too late to learn to code?](https://www.youtube.com/watch?v=yl8_M58k21s)
 - [What is an API? (with AI text bot example)](https://www.youtube.com/watch?v=snRjHNyljrg)
 - [Do you have to be good at math to learn to code? (and a brief overview of programming disciplines)](https://www.youtube.com/watch?v=J0l-GzF-I64)
 - [3 Mistakes I Made While Teaching Myself to Code](https://www.youtube.com/watch?v=osY6kBLy6Ic)
 - [Can you actually learn to code in 3 months?](https://www.youtube.com/watch?v=ioTsNeYFjik)
-- [How I Taught Myself to Code (4 Year Update)](https://www.youtube.com/watch?v=Zr73KfbiSu0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

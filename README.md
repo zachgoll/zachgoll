@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Front-End vs. Back-End vs. Full-Stack Web Development](https://www.youtube.com/watch?v=XxxQkkdXYEs)
 - [What Code Editor Should I Use? (for beginners)](https://www.youtube.com/watch?v=Byp2N1hCsXY)
 - [Vim Text Editor for Beginners](https://www.youtube.com/watch?v=xY6G0JOXLjY)
 - [Best Software Development Books (my top 5 picks)](https://www.youtube.com/watch?v=Favruhiw24o)
 - [Is it too late to learn to code?](https://www.youtube.com/watch?v=yl8_M58k21s)
-- [What is an API? (with AI text bot example)](https://www.youtube.com/watch?v=snRjHNyljrg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [1 - Your First JavaScript Program (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=XWS5w5eQzFk)
 - [Introduction to the Full Stack Web Developer Roadmap Series (for 2021 and beyond)](https://www.youtube.com/watch?v=ZZJT5uskuvI)
 - [Front-End vs. Back-End vs. Full-Stack Web Development](https://www.youtube.com/watch?v=XxxQkkdXYEs)
 - [What Code Editor Should I Use? (for beginners)](https://www.youtube.com/watch?v=Byp2N1hCsXY)
 - [Vim Text Editor for Beginners](https://www.youtube.com/watch?v=xY6G0JOXLjY)
-- [Best Software Development Books (my top 5 picks)](https://www.youtube.com/watch?v=Favruhiw24o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

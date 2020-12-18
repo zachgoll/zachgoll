@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Do you have to be good at math to become a programmer?](https://medium.com/@zach.gollwitzer/do-you-have-to-be-good-at-math-to-become-a-programmer-cced7b61ed7b?source=rss-e77c4aee819e------2)
-- [A Complete Guide to JavaScript Dates](https://levelup.gitconnected.com/why-your-javascript-date-is-off-by-1-day-a-complete-guide-to-javascript-dates-10a973fb9b1f?source=rss-e77c4aee819e------2)
-- [Bluehost + WordPress: Your Complete Guide to Starting a Website / Blog (Part 1 — Setup)](https://medium.com/@zach.gollwitzer/bluehost-wordpress-your-complete-guide-to-starting-a-website-blog-part-1-setup-9a2d2e812796?source=rss-e77c4aee819e------2)
-- [Demystifying Bluehost: Primary Domains, Parked Domains, Subdomains, and Add-On Domains](https://medium.com/@zach.gollwitzer/demystifying-bluehost-primary-domains-parked-domains-subdomains-and-add-on-domains-5608d35946b?source=rss-e77c4aee819e------2)
-- [Which Bluehost Hosting Plan Is Best for ME? (2020)](https://medium.com/@zach.gollwitzer/which-bluehost-hosting-plan-is-best-for-me-2020-8d67b6b0356f?source=rss-e77c4aee819e------2)
+- [Lesson 2: What is JavaScript and How is it Used? (Fullstack developer roadmap series)](https://dev.to/zachgoll/fullstack-developer-series-lesson-2-what-is-javascript-and-how-is-it-used-3g81)
+- [Lesson 1: Your First JavaScript Program (Fullstack developer roadmap series)](https://dev.to/zachgoll/fullstack-developer-series-lesson-1-your-first-javascript-program-d98)
+- [Fullstack Developer Series - Learn to Code in 2021 and Beyond](https://dev.to/zachgoll/fullstack-developer-series-learn-to-code-in-2021-and-beyond-38l1)
+- [Frontend vs. Backend vs. Fullstack Web Development](https://dev.to/zachgoll/frontend-vs-backend-vs-fullstack-web-development-413h)
+- [What Code Editor Should I Learn First? (for web development)](https://dev.to/zachgoll/what-code-editor-should-i-learn-first-for-web-development-5b95)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@zach.gollwitzer)

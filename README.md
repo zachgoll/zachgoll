@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is JavaScript? #Shorts](https://www.youtube.com/watch?v=zBWaMXBw5YA)
 - [Your First JavaScript Program (Full Stack Developer Roadmap Series) #Shorts](https://www.youtube.com/watch?v=8RlfHb9Ht4I)
 - [Ep. 1 - Your First JavaScript Program (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=XWS5w5eQzFk)
 - [Introduction to the Full Stack Web Developer Roadmap Series (for 2021 and beyond)](https://www.youtube.com/watch?v=ZZJT5uskuvI)
 - [Front-End vs. Back-End vs. Full-Stack Web Development](https://www.youtube.com/watch?v=XxxQkkdXYEs)
-- [What Code Editor Should I Use? (for beginners)](https://www.youtube.com/watch?v=Byp2N1hCsXY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

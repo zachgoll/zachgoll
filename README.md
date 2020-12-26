@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript Variables and Data Types #Shorts #fullstackroadmap](https://www.youtube.com/watch?v=jnT0M2kblpM)
+- [Ep. 3 - JavaScript Variables and Data Types Tutorial (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=YFVT567KBlw)
 - [Ep. 2 - What is JavaScript and What is it Used For? #fullstackroadmap](https://www.youtube.com/watch?v=q9BdH-oluJY)
 - [What is JavaScript? #fullstackroadmap #Shorts](https://www.youtube.com/watch?v=zBWaMXBw5YA)
 - [Your First JavaScript Program #fullstackroadmap #Shorts](https://www.youtube.com/watch?v=8RlfHb9Ht4I)
-- [Ep. 1 - Your First JavaScript Program #fullstackroadmap](https://www.youtube.com/watch?v=XWS5w5eQzFk)
-- [Introduction to the Full Stack Web Developer Roadmap Series (for 2021 and beyond) #fullstackroadmap](https://www.youtube.com/watch?v=ZZJT5uskuvI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

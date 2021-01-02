@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ep. 4.4 - JavaScript Operator Code Challenges (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=caz6eZSvktI)
+- [Ep. 4.3 - JavaScript Logical Operators (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=PZktl_T3xVg)
+- [Ep. 4.2 - JavaScript Comparison Operators (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=s3M1PRpp6m8)
+- [Ep. 4.1 - JavaScript Assignment Operators (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=dfX857QTYZQ)
 - [Ep. 4.0 - JavaScript Arithmetic Operators (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=z8gtbI-LbQE)
-- [JavaScript Variables and Data Types #Shorts #fullstackroadmap](https://www.youtube.com/watch?v=jnT0M2kblpM)
-- [Ep. 3 - JavaScript Variables and Data Types Tutorial (Full Stack Developer Roadmap Series)](https://www.youtube.com/watch?v=YFVT567KBlw)
-- [Ep. 2 - What is JavaScript and What is it Used For? #fullstackroadmap](https://www.youtube.com/watch?v=q9BdH-oluJY)
-- [What is JavaScript? #fullstackroadmap #Shorts](https://www.youtube.com/watch?v=zBWaMXBw5YA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

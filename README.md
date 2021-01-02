@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lesson 4 - JavaScript Operators (Fullstack developer roadmap series)](https://dev.to/zachgoll/lesson-4-javascript-operators-fullstack-developer-roadmap-series-3c1i)
 - [Lesson 3 - JavaScript Variables and Data Types (Fullstack developer roadmap series)](https://dev.to/zachgoll/lesson-3-javascript-variables-and-data-types-fullstack-developer-roadmap-series-5flf)
 - [Lesson 2: What is JavaScript and How is it Used? (Fullstack developer roadmap series)](https://dev.to/zachgoll/fullstack-developer-series-lesson-2-what-is-javascript-and-how-is-it-used-3g81)
 - [Lesson 1: Your First JavaScript Program (Fullstack developer roadmap series)](https://dev.to/zachgoll/fullstack-developer-series-lesson-1-your-first-javascript-program-d98)
 - [Fullstack Developer Series - Learn to Code in 2021 and Beyond](https://dev.to/zachgoll/fullstack-developer-series-learn-to-code-in-2021-and-beyond-38l1)
-- [Frontend vs. Backend vs. Fullstack Web Development](https://dev.to/zachgoll/frontend-vs-backend-vs-fullstack-web-development-413h)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@zach.gollwitzer)

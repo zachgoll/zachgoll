@@ -1,4 +1,4 @@
-### Hi there, I'm Zach. I'm a Fullstack Dev (but mostly Angular), golfer, and amateurish runner
+### Hi there, I'm Zach. I'm a Fullstack Dev writing software tutorials and hacking on golf related apps
 
 - ⛳ Just launched a golf performance app: [Eagle Eye Performance][golfapp]
 - 🏌 I also have a golf blog: [The DIY Golfer][golfblog]

@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript Conditionals #fullstackroadmap (Ep. 5.0)](https://www.youtube.com/watch?v=4LjtotM77Pg)
 - [5 Beginner JavaScript Coding Challenges   #fullstackroadmap (Ep. 4.4)](https://www.youtube.com/watch?v=caz6eZSvktI)
 - [JavaScript Logical Operators #fullstackroadmap (Ep. 4.3)](https://www.youtube.com/watch?v=PZktl_T3xVg)
 - [JavaScript Comparison Operators #fullstackroadmap (Ep. 4.2)](https://www.youtube.com/watch?v=s3M1PRpp6m8)
 - [JavaScript Assignment Operators #fullstackroadmap (Ep. 4.1)](https://www.youtube.com/watch?v=dfX857QTYZQ)
-- [JavaScript Arithmetic Operators #fullstackroadmap (Ep 4.0)](https://www.youtube.com/watch?v=z8gtbI-LbQE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

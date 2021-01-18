@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Read JavaScript (MDN) Documentation #fullstackroadmap (Ep. 6.0)](https://www.youtube.com/watch?v=O3iR-CIufKM)
 - [JavaScript Functions #fullstackroadmap (Ep. 5.2)](https://www.youtube.com/watch?v=chGnZkxUtTA)
 - [25 Beginner JavaScript Challenges in 2 hours #fullstackroadmap (Ep. 5.3)](https://www.youtube.com/watch?v=sqRk0Ly66Ps)
 - [JavaScript Loops #fullstackroadmap (Ep. 5.1)](https://www.youtube.com/watch?v=XKCeHarrPv0)
 - [JavaScript Conditionals #fullstackroadmap (Ep. 5.0)](https://www.youtube.com/watch?v=4LjtotM77Pg)
-- [5 Beginner JavaScript Coding Challenges   #fullstackroadmap (Ep. 4.4)](https://www.youtube.com/watch?v=caz6eZSvktI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

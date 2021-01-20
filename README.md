@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Intro to JavaScript Dates #fullstackroadmap (Ep. 6.3)](https://www.youtube.com/watch?v=4kpigdm4I_U)
 - [Primitives vs. Objects in JavaScript #fullstackroadmap (Ep. 6.2)](https://www.youtube.com/watch?v=mDiUcPpMlZQ)
 - [JavaScript Callback Functions Explained #fullstackroadmap (Ep. 6.1)](https://www.youtube.com/watch?v=_gofwQViVPM)
 - [How to Read JavaScript (MDN) Documentation #fullstackroadmap (Ep. 6.0)](https://www.youtube.com/watch?v=O3iR-CIufKM)
 - [JavaScript Functions #fullstackroadmap (Ep. 5.2)](https://www.youtube.com/watch?v=chGnZkxUtTA)
-- [25 Beginner JavaScript Challenges in 2 hours #fullstackroadmap (Ep. 5.3)](https://www.youtube.com/watch?v=sqRk0Ly66Ps)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

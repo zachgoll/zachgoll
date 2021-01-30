@@ -2,7 +2,7 @@
 
 - ⛳ Just launched a golf performance app: [Eagle Eye Performance][golfapp]
 - 🏌 I also have a golf blog: [The DIY Golfer][golfblog]
-- 🎥 I enjoy writing [web development tutorials][medium] and [making vids][youtube]
+- 🎥 I enjoy writing [web development tutorials][website] and [making vids][youtube]
 
 ### Connect with me:
 

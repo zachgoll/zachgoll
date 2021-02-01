@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [HTML Crash Course for Beginners #fullstackroadmap (Ep. 7.0)](https://www.youtube.com/watch?v=tWZcRgaFdaE)
 - [10 Beginner(ish) JavaScript Code Challenges #fullstackroadmap (Ep. 6.9)](https://www.youtube.com/watch?v=ijbcs0ESqoM)
 - [JavaScript Error Handling and Error Types #fullstackroadmap (Ep. 1)](https://www.youtube.com/watch?v=a5gjXeOzCGg)
 - [Intro to the JavaScript Math Object #fullstackroadmap (Ep. 6.7)](https://www.youtube.com/watch?v=lOAAQ0aEUuU)
 - [Common JavaScript Array Methods #fullstackroadmap (Ep. 6.6)](https://www.youtube.com/watch?v=o5rTOt73nBk)
-- [Common String Methods in JavaScript #fullstackroadmap (Ep. 6.5)](https://www.youtube.com/watch?v=FmWZw87G9Yc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML Crash Course + Overview of the DOM #fullstackroadmap](https://dev.to/zachgoll/html-crash-course-overview-of-the-dom-fullstackroadmap-eb5)
 - [Lesson 6 - JavaScript Built-In Functions and Objects #fullstackroadmap](https://dev.to/zachgoll/lesson-6-javascript-built-in-functions-and-objects-fullstackroadmap-29ke)
 - [Lesson 5 - JavaScript Functions, Loops, and Conditionals #fullstackroadmap](https://dev.to/zachgoll/lesson-5-javascript-functions-loops-and-conditionals-fullstackroadmap-ej0)
 - [Lesson 4 - JavaScript Operators (Fullstack developer roadmap series)](https://dev.to/zachgoll/lesson-4-javascript-operators-fullstack-developer-roadmap-series-3c1i)
 - [Lesson 3 - JavaScript Variables and Data Types (Fullstack developer roadmap series)](https://dev.to/zachgoll/lesson-3-javascript-variables-and-data-types-fullstack-developer-roadmap-series-5flf)
-- [Lesson 2: What is JavaScript and How is it Used? #fullstackroadmap](https://dev.to/zachgoll/fullstack-developer-series-lesson-2-what-is-javascript-and-how-is-it-used-3g81)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@zach.gollwitzer)

@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The CSS Box Model for Complete Beginners #fullstackroadmap ep. 8.1](https://www.youtube.com/watch?v=gGjJDEEXFv0)
 - [CSS Tutorial for Complete Beginners #fullstackroadmap (Ep. 8.0)](https://www.youtube.com/watch?v=hAD58ej0E4o)
 - [Build a Random Meme Generator with HTML and JavaScript! (Complete Beginners Project)](https://www.youtube.com/watch?v=deqOja994Z8)
 - [The Document Object Model (DOM) - A Complete Beginners Guide](https://www.youtube.com/watch?v=ii8xGK6mrPg)
 - [HTML Crash Course for Beginners #fullstackroadmap (Ep. 7.0)](https://www.youtube.com/watch?v=tWZcRgaFdaE)
-- [10 Beginner(ish) JavaScript Code Challenges #fullstackroadmap (Ep. 6.9)](https://www.youtube.com/watch?v=ijbcs0ESqoM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

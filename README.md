@@ -29,7 +29,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Title of Video #fullstackroadmap (Ep. 1)](https://www.youtube.com/watch?v=l7WZgRg7-sM)
+- [Responsive Web Design for Complete Beginners #fullstackroadmap (Ep. 9)](https://www.youtube.com/watch?v=l7WZgRg7-sM)
 - [Vanilla CSS and HTML Pricing Card Challenge #fullstackroadmap Ep 8.3](https://www.youtube.com/watch?v=zwBoEwUD__0)
 - [Must Know CSS Properties for Beginners in Depth | #fullstackroadmap Ep. 8.2](https://www.youtube.com/watch?v=dqaNvIJ4Fyk)
 - [The CSS Box Model for Complete Beginners #fullstackroadmap ep. 8.1](https://www.youtube.com/watch?v=gGjJDEEXFv0)

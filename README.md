@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Detailed Flexbox Tutorial for Complete Beginners #fullstackroadmap](https://dev.to/zachgoll/detailed-flexbox-tutorial-for-complete-beginners-fullstackroadmap-4g78)
 - [Responsive Web Design for Complete Beginners #fullstackroadmap](https://dev.to/zachgoll/responsive-web-design-for-complete-beginners-434c)
 - [Lesson 8 - CSS Crash Course for Beginners #fullstackroadmap](https://dev.to/zachgoll/lesson-8-css-crash-course-for-beginners-fullstackroadmap-59b1)
 - [HTML Crash Course + Overview of the DOM #fullstackroadmap](https://dev.to/zachgoll/html-crash-course-overview-of-the-dom-fullstackroadmap-eb5)
 - [Lesson 6 - JavaScript Built-In Functions and Objects #fullstackroadmap](https://dev.to/zachgoll/lesson-6-javascript-built-in-functions-and-objects-fullstackroadmap-29ke)
-- [Lesson 5 - JavaScript Functions, Loops, and Conditionals #fullstackroadmap](https://dev.to/zachgoll/lesson-5-javascript-functions-loops-and-conditionals-fullstackroadmap-ej0)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@zach.gollwitzer)

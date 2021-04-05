@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Detailed CSS Flexbox Tutorial for Beginners (Part 3/4 - flex-grow, flex-shrink) #fullstackroadmap](https://www.youtube.com/watch?v=YreJRElqfME)
 - [Detailed CSS Flexbox Tutorial for Beginners (Part 2/4) #fullstackroadmap](https://www.youtube.com/watch?v=yeiYrKm6r0U)
 - [Detailed CSS Flexbox Tutorial for Beginners #fullstackroadmap Ep 10.0](https://www.youtube.com/watch?v=heg9yalZZSc)
 - [Responsive Web Design for Complete Beginners #fullstackroadmap (Ep. 9)](https://www.youtube.com/watch?v=l7WZgRg7-sM)
 - [Vanilla CSS and HTML Pricing Card Challenge #fullstackroadmap Ep 8.3](https://www.youtube.com/watch?v=zwBoEwUD__0)
-- [Must Know CSS Properties for Beginners in Depth | #fullstackroadmap Ep. 8.2](https://www.youtube.com/watch?v=dqaNvIJ4Fyk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

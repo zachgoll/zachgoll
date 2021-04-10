@@ -6,9 +6,9 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Zach Gollwitzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Zach Gollwitzer Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Zach Gollwitzer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Zach Gollwitzer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Zach Gollwitzer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -71,7 +71,7 @@
 </details>
 
 [website]: https://www.zachgollwitzer.com
-[twitter]: https://twitter.com/z_gollwitzer13
+[twitter]: https://twitter.com/zg_dev
 [youtube]: https://youtube.com/zachgollwitzer
 [linkedin]: https://www.linkedin.com/in/zachgollwitzer/
 [medium]: https://medium.com/@zach.gollwitzer

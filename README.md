@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CSS Grid Course for Complete Beginners (part 2/9)](https://www.youtube.com/watch?v=mpvzIlCKsjI)
 - [CSS Grid Course for Complete Beginners (part 1/9)](https://www.youtube.com/watch?v=p03zmYL9Mtk)
 - [CSS Flexbox Project for Complete Beginners (Testimonial Grid)](https://www.youtube.com/watch?v=n0QmD2i90_c)
 - [CSS Flexbox Course for Complete Beginners (part 4/4)](https://www.youtube.com/watch?v=rEYa5r3VKo4)
 - [CSS Flexbox Course for Complete Beginners (part 3/4)](https://www.youtube.com/watch?v=YreJRElqfME)
-- [CSS Flexbox Course for Complete Beginners (part 2/4)](https://www.youtube.com/watch?v=yeiYrKm6r0U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

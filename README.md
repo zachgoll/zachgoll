@@ -58,7 +58,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/zachgoll/express-jwt-authentication-starter/pull/7) in [zachgoll/express-jwt-authentication-starter](https://github.com/zachgoll/express-jwt-authentication-starter)
+1. 🗣 Commented on [#11](https://github.com/zachgoll/express-jwt-authentication-starter/issues/11) in [zachgoll/express-jwt-authentication-starter](https://github.com/zachgoll/express-jwt-authentication-starter)
 <!--END_SECTION:activity-->
 
 </details>

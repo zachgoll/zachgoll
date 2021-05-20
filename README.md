@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CSS Grid Beginner Project - The "Holy Grail" Layout (Part 2/3)](https://www.youtube.com/watch?v=Q0vTWRTBhiM)
 - [CSS Grid Beginner Project - The "Holy Grail" Layout (Part 1/3)](https://www.youtube.com/watch?v=46Dh-VtBja4)
 - [CSS Grid Course for Complete Beginners (part 6/9)](https://www.youtube.com/watch?v=urcwTjYcQpQ)
 - [CSS Grid Course for Complete Beginners (part 5/9)](https://www.youtube.com/watch?v=omNoki85iU8)
 - [CSS Grid Course for Complete Beginners (part 4/9)](https://www.youtube.com/watch?v=-is6aahR5z8)
-- [CSS Grid Course for Complete Beginners (part 3/9)](https://www.youtube.com/watch?v=1iEixDLBAa0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)

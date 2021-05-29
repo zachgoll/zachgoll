@@ -58,7 +58,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/zachgoll/express-jwt-authentication-starter/issues/11) in [zachgoll/express-jwt-authentication-starter](https://github.com/zachgoll/express-jwt-authentication-starter)
+1. 🗣 Commented on [#2149](https://github.com/recharts/recharts/issues/2149) in [recharts/recharts](https://github.com/recharts/recharts)
 <!--END_SECTION:activity-->
 
 </details>

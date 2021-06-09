@@ -1,8 +1,11 @@
-### Hi there, I'm Zach. I'm a Fullstack Dev writing software tutorials and hacking on golf related apps
+### Hi there, I'm Zach. I'm a full-stack dev writing better software each day.
 
-- ⛳ Just launched a golf performance app: [Eagle Eye Performance][golfapp]
-- 🏌 I also have a golf blog: [The DIY Golfer][golfblog]
-- 🎥 I enjoy writing [web development tutorials][website] and [making vids][youtube]
+A few recent highlights:
+
+- 📈 Building [Metrix Mule][metrixmule]
+- ⛳ I run an online training course called "Break 90 in 90 Days" on [Eagle Eye Performance][golfapp], the golf training platform I built on Angular / NestJS / MySQL.
+- 🏌 I have a golf blog: [The DIY Golfer][golfblog]
+- 🎥 I make software tutorials on [YouTube][youtube]
 
 ### Connect with me:
 
@@ -81,3 +84,4 @@
 [wordpressplaylist]: https://www.youtube.com/playlist?list=PLYQSCk-qyTW0OeGf9LkQkev4ItNRdCVoN
 [golfapp]: https://training.thediygolfer.com
 [golfblog]: https://www.thediygolfer.com
+[metrixmule]: https://twitter.com/metrixmule

@@ -18,7 +18,7 @@ A few recent highlights:
 
 ### A few of my favorite languages / frameworks / tools:
 
-[<img align="left" alt="React" width="26px" src="./icons/react.png" />][website]
+[<img align="left" alt="React" width="26px" src="./icons/react-original.png" />][website]
 [<img align="left" alt="DO" width="26px" src="./icons/digital-ocean.png" />][website]
 [<img align="left" alt="Angular" width="26px" src="./icons/angular.png" />][website]
 [<img align="left" alt="NestJS" width="26px" src="./icons/nestjs.svg" />][youtube]

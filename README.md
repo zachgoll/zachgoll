@@ -2,7 +2,6 @@
 
 A few recent highlights:
 
-- 📈 Building [Metrix Mule][metrixmule]
 - ⛳ I run an online training course called "Break 90 in 90 Days" on [Eagle Eye Performance][golfapp], the golf training platform I built on Angular / NestJS / MySQL.
 - 🏌 I have a golf blog: [The DIY Golfer][golfblog]
 - 🎥 I make software tutorials on [YouTube][youtube]
@@ -13,17 +12,6 @@ A few recent highlights:
 [<img align="left" alt="Zach Gollwitzer Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Zach Gollwitzer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Zach Gollwitzer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### A few of my favorite languages / frameworks / tools:
-
-[<img align="left" alt="React" width="26px" src="./icons/react-original.png" />][website]
-[<img align="left" alt="Angular" width="26px" src="./icons/angular.png" />][website]
-[<img align="left" alt="NestJS" width="26px" src="./icons/nestjs.svg" />][youtube]
-[<img align="left" alt="PassportJS" width="26px" src="./icons/passportjs.png" />][passportjsplaylist]
-[<img align="left" alt="Git" width="26px" src="./icons/git.png" />][gitplaylist]
-[<img align="left" alt="Bash" width="26px" src="./icons/linux.png" />][bashplaylist]
 
 <br />
 <br />

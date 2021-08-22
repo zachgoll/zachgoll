@@ -1,4 +1,4 @@
-### Hi there, I'm Zach. I'm a full-stack dev writing better software each day.
+### Hi there, I'm Zach. I'm a full-stack dev living in Cleveland, OH.
 
 A few recent highlights:
 

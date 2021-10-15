@@ -50,7 +50,7 @@ A few recent highlights:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/zachgoll/nx-nrwl-github-actions/pull/1) in [zachgoll/nx-nrwl-github-actions](https://github.com/zachgoll/nx-nrwl-github-actions)
+1. 🎉 Merged PR [#3](https://github.com/zachgoll/nx-nrwl-github-actions/pull/3) in [zachgoll/nx-nrwl-github-actions](https://github.com/zachgoll/nx-nrwl-github-actions)
 <!--END_SECTION:activity-->
 
 </details>

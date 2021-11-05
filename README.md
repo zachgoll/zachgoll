@@ -50,7 +50,7 @@ A few recent highlights:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#298](https://github.com/auth0/auth0-react/issues/298) in [auth0/auth0-react](https://github.com/auth0/auth0-react)
+1. 🗣 Commented on [#298](https://github.com/auth0/auth0-react/issues/298) in [auth0/auth0-react](https://github.com/auth0/auth0-react)
 <!--END_SECTION:activity-->
 
 </details>

@@ -50,7 +50,7 @@ A few recent highlights:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/zachgoll/express-jwt-authentication-starter/pull/22) in [zachgoll/express-jwt-authentication-starter](https://github.com/zachgoll/express-jwt-authentication-starter)
+1. 🗣 Commented on [#4619](https://github.com/nrwl/nx/issues/4619) in [nrwl/nx](https://github.com/nrwl/nx)
 <!--END_SECTION:activity-->
 
 </details>

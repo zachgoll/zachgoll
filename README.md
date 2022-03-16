@@ -1,10 +1,14 @@
 ### Hi there, I'm Zach. I'm a full-stack dev living in Cleveland, OH.
 
-A few recent highlights:
+**What I'm up to**:
 
-- ⛳ I run an online training course called "Break 90 in 90 Days" on [Eagle Eye Performance][golfapp], the golf training platform I built on Angular / NestJS / MySQL.
-- 🏌 I have a golf blog: [The DIY Golfer][golfblog]
-- 🎥 I make software tutorials on [YouTube][youtube]
+- I'm building [Maybe Finance](https://maybe.co/), a modern financial planning and investment app
+- I get out to run as often as I can (hit me up on [Strava](https://www.strava.com/athletes/25085421)!)
+
+**Other projects / hobbies**
+
+- 🏌 I have a golf blog, [The DIY Golfer][golfblog].  While I no longer actively update this site, it is the home to [Break 90 in 90 Days][golfapp], a training course for golfers trying to break 90 for the first time.
+- 🎥 When I have time (and interest), I make software tutorials on [YouTube][youtube]
 
 ### Connect with me:
 
@@ -71,6 +75,6 @@ A few recent highlights:
 [bashplaylist]: https://www.youtube.com/playlist?list=PLYQSCk-qyTW0d88jNocdi_YIFMA5Fnpug
 [gitplaylist]: https://www.youtube.com/playlist?list=PLYQSCk-qyTW3lX_dyw0R2eVzNGB3Tlv9S
 [wordpressplaylist]: https://www.youtube.com/playlist?list=PLYQSCk-qyTW0OeGf9LkQkev4ItNRdCVoN
-[golfapp]: https://training.thediygolfer.com
+[golfapp]: https://training.thediygolfer.com/courses/2/info
 [golfblog]: https://www.thediygolfer.com
 [metrixmule]: https://twitter.com/metrixmule

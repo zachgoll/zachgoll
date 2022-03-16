@@ -2,13 +2,13 @@
 
 **What I'm up to**:
 
-- I'm building [Maybe Finance](https://maybe.co/), a modern financial planning and investment app
+- I'm building [Maybe Finance](https://maybe.co/), a modern financial planning and investment app (it's pretty darn cool, you should definitely check us out!)
 - I get out to run as often as I can (hit me up on [Strava](https://www.strava.com/athletes/25085421)!)
 
 **Other projects / hobbies**
 
+- 🎥 When I have time (and something I'm excited to share), I enjoy making software tutorials on [YouTube][youtube]
 - 🏌 I have a golf blog, [The DIY Golfer][golfblog].  While I no longer actively update this site, it is the home to [Break 90 in 90 Days][golfapp], a training course for golfers trying to break 90 for the first time.
-- 🎥 When I have time (and interest), I make software tutorials on [YouTube][youtube]
 
 ### Connect with me:
 

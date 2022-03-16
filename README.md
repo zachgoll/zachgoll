@@ -38,35 +38,11 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [CSS Grid Course for Complete Beginners](https://dev.to/zachgoll/css-grid-course-for-complete-beginners-4256)
-- [Detailed Flexbox Tutorial for Complete Beginners #fullstackroadmap](https://dev.to/zachgoll/detailed-flexbox-tutorial-for-complete-beginners-fullstackroadmap-4g78)
-- [Responsive Web Design for Complete Beginners #fullstackroadmap](https://dev.to/zachgoll/responsive-web-design-for-complete-beginners-434c)
-- [Lesson 8 - CSS Crash Course for Beginners #fullstackroadmap](https://dev.to/zachgoll/lesson-8-css-crash-course-for-beginners-fullstackroadmap-59b1)
-- [HTML Crash Course + Overview of the DOM #fullstackroadmap](https://dev.to/zachgoll/html-crash-course-overview-of-the-dom-fullstackroadmap-eb5)
-<!-- BLOG-POST-LIST:END -->
+[Under construction](https://zachgoll.xyz/posts/under-construction)
 
-➡️ [more blog posts...](https://medium.com/@zach.gollwitzer)
+➡️ [more blog posts...](website)
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#4619](https://github.com/nrwl/nx/issues/4619) in [nrwl/nx](https://github.com/nrwl/nx)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Zach's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zachgoll&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://www.zachgollwitzer.com
+[website]: https://zachgoll.xyz
 [twitter]: https://twitter.com/zg_dev
 [youtube]: https://youtube.com/zachgollwitzer
 [linkedin]: https://www.linkedin.com/in/zachgollwitzer/

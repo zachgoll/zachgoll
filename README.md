@@ -40,7 +40,7 @@
 
 [Under construction](https://zachgoll.xyz/posts/under-construction)
 
-➡️ [more blog posts...](website)
+➡️ [more blog posts...][website]
 
 [website]: https://zachgoll.xyz
 [twitter]: https://twitter.com/zg_dev

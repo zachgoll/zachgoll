@@ -42,7 +42,7 @@
 
 ➡️ [more blog posts...][website]
 
-[website]: https://zachgoll.xyz
+[website]: https://www.zachgollwitzer.com
 [twitter]: https://twitter.com/zg_dev
 [youtube]: https://youtube.com/zachgollwitzer
 [linkedin]: https://www.linkedin.com/in/zachgollwitzer/
@@ -53,4 +53,3 @@
 [wordpressplaylist]: https://www.youtube.com/playlist?list=PLYQSCk-qyTW0OeGf9LkQkev4ItNRdCVoN
 [golfapp]: https://training.thediygolfer.com/courses/2/info
 [golfblog]: https://www.thediygolfer.com
-[metrixmule]: https://twitter.com/metrixmule

@@ -1,4 +1,4 @@
-### Hi there, I'm Zach. I'm a full-stack dev living in Cleveland, OH.
+### Hi there, I'm Zach. I'm a full-stack dev living in Cincinnati, OH.
 
 **What I'm up to**:
 

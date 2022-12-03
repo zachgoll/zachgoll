@@ -14,4 +14,4 @@ jobs:
       - name: Pull in site posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.zachgollwitzer.com/rss"
+          feed_list: "https://www.zachgollwitzer.com/rss.xml"

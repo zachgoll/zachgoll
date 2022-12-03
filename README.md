@@ -7,7 +7,7 @@
 
 **Other projects / hobbies**
 
-- 🎥 When I have time (and something I'm excited to share), I enjoy making software tutorials on [YouTube][youtube]
+- 🎥 When I have time, I enjoy making software tutorials on [YouTube][youtube].  I tried to do this on a schedule for a year but hated it.  So now, I post videos when I feel like I have something interesting to share or just feel like making one! 
 - 🏌 I have a golf blog, [The DIY Golfer][golfblog].  While I no longer actively update this site, it is the home to [Break 90 in 90 Days][golfapp], a training course for golfers trying to break 90 for the first time.
 
 ### Connect with me:
@@ -25,26 +25,22 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CSS Grid Beginner Project - The &quot;Holy Grail&quot; Layout &lpar;Part 3/3&rpar;](https://www.youtube.com/watch?v=TWQN2Bb-cLU)
-- [CSS Grid Beginner Project - The &quot;Holy Grail&quot; Layout &lpar;Part 2/3&rpar;](https://www.youtube.com/watch?v=Q0vTWRTBhiM)
-- [CSS Grid Beginner Project - The &quot;Holy Grail&quot; Layout &lpar;Part 1/3&rpar;](https://www.youtube.com/watch?v=46Dh-VtBja4)
-- [CSS Grid Course for Complete Beginners &lpar;part 6/9&rpar;](https://www.youtube.com/watch?v=urcwTjYcQpQ)
-- [CSS Grid Course for Complete Beginners &lpar;part 5/9&rpar;](https://www.youtube.com/watch?v=omNoki85iU8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/c/ZachGollwitzer)
+➡️ [more videos...][youtube]
 
 ---
 
 ### 📕 Latest Blog Posts
 
-[Under construction](https://zachgoll.xyz/posts/under-construction)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
 
 [website]: https://www.zachgollwitzer.com
 [twitter]: https://twitter.com/zg_dev
-[youtube]: https://youtube.com/zachgollwitzer
+[youtube]: https://www.youtube.com/@zachgoll
 [linkedin]: https://www.linkedin.com/in/zachgollwitzer/
 [medium]: https://medium.com/@zach.gollwitzer
 [passportjsplaylist]: https://www.youtube.com/playlist?list=PLYQSCk-qyTW2ewJ05f_GKHtTIzjynDgjK

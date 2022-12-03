@@ -25,6 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Let&#39;s build a STUNNING photography portfolio with Next.js, TypeScript, and TailwindCSS &lpar;real world&rpar;](https://www.youtube.com/watch?v=HTUxZ3vm9j0)
+- [You might be using Next.js Image WRONG &lpar;and it’s costing you $$&rpar;](https://www.youtube.com/watch?v=ZKG8JBdgSos)
+- [Be a VSCode search bar ninja 🥷](https://www.youtube.com/watch?v=sG6mcdpNDGg)
+- [Does your app work on 3G networks?](https://www.youtube.com/watch?v=_TKdJbkl5bc)
+- [A quick JS debugging trick you need to know!](https://www.youtube.com/watch?v=80usjGSS5ek)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

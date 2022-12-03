@@ -39,6 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up an RSS feed with Next.js in a Nrwl NX monorepo](https://www.zachgollwitzer.com/posts/rss-feed-nextjs-nrwl-nx)
+- [Setting up a Macbook for Software Development](https://www.zachgollwitzer.com/posts/mac-development-setup)
+- [How to build a Masonry Image Gallery + Lightbox with Next.js](https://www.zachgollwitzer.com/posts/nextjs-masonry-image-gallery-lightbox)
+- [How to use the Next.js Image Component Effectively](https://www.zachgollwitzer.com/posts/nextjs-image-component-tutorial)
+- [Must-know SVG Concepts for Web Developers](https://www.zachgollwitzer.com/posts/web-developer-svg)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]

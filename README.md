@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is &quot;Type Narrowing&quot; in TypeScript?](https://www.youtube.com/watch?v=3Dr0grJStto)
+- [What is a &quot;Discriminated Union&quot; in TypeScript?](https://www.youtube.com/watch?v=odhEn5cMFMk)
 - [3 things you MUST know about Next.js Image](https://www.youtube.com/watch?v=Ieocb0fkc1w)
 - [Let&#39;s build a STUNNING photography portfolio with Next.js, TypeScript, and TailwindCSS &lpar;real world&rpar;](https://www.youtube.com/watch?v=HTUxZ3vm9j0)
 - [You might be using Next.js Image WRONG &lpar;and it’s costing you $$&rpar;](https://www.youtube.com/watch?v=ZKG8JBdgSos)
-- [Be a VSCode search bar ninja 🥷](https://www.youtube.com/watch?v=sG6mcdpNDGg)
-- [Does your app work on 3G networks?](https://www.youtube.com/watch?v=_TKdJbkl5bc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

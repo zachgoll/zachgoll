@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is a &quot;Spread operator&quot; in JS / TS?](https://www.youtube.com/watch?v=mej7QLbr0pM)
+- [Write cleaner code with &quot;Guard clauses&quot;](https://www.youtube.com/watch?v=b2jYH8dC-50)
 - [What is &quot;Type Narrowing&quot; in TypeScript?](https://www.youtube.com/watch?v=3Dr0grJStto)
 - [What is a &quot;Discriminated Union&quot; in TypeScript?](https://www.youtube.com/watch?v=odhEn5cMFMk)
 - [3 things you MUST know about Next.js Image](https://www.youtube.com/watch?v=Ieocb0fkc1w)
-- [Let&#39;s build a STUNNING photography portfolio with Next.js, TypeScript, and TailwindCSS &lpar;real world&rpar;](https://www.youtube.com/watch?v=HTUxZ3vm9j0)
-- [You might be using Next.js Image WRONG &lpar;and it’s costing you $$&rpar;](https://www.youtube.com/watch?v=ZKG8JBdgSos)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to use TailwindCSS&#39;s &quot;group-hover&quot; pseudo selector to coordinate multiple hover states at once](https://www.youtube.com/watch?v=V0jAgtjYq5c)
+- [A better way to inspect CSS Grid and Flexbox layouts in your browser dev-tools](https://www.youtube.com/watch?v=f9jUDDSiSsA)
+- [How i got faster working in VSCode](https://www.youtube.com/watch?v=SAWZeK93TyU)
 - [The BEST beginner web dev project for JS/TS devs to land first job](https://www.youtube.com/watch?v=Lp-ToEd_3qY)
 - [What is a &quot;Spread operator&quot; in JS / TS?](https://www.youtube.com/watch?v=mej7QLbr0pM)
-- [Write cleaner code with &quot;Guard clauses&quot;](https://www.youtube.com/watch?v=b2jYH8dC-50)
-- [What is &quot;Type Narrowing&quot; in TypeScript?](https://www.youtube.com/watch?v=3Dr0grJStto)
-- [What is a &quot;Discriminated Union&quot; in TypeScript?](https://www.youtube.com/watch?v=odhEn5cMFMk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

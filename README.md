@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why I use Insomnia instead of Postman](https://www.youtube.com/watch?v=VX8cK30ucOE)
 - [for when you&#39;re stuck in Vim and all hope has been lost](https://www.youtube.com/watch?v=9aNA6PShiP4)
 - [Are you using Prettier? &lpar;how to set up in VSCode to format on save&rpar;](https://www.youtube.com/watch?v=Z1fLL_e9eKc)
 - [import cost extension - a great habit to get into as a web dev &lpar;VSCode&rpar;](https://www.youtube.com/watch?v=UN6u2qCuFmg)
 - [What does the TailwindCSS &quot;line-clamp&quot; plugin do?](https://www.youtube.com/watch?v=LeIuFo_ti3Q)
-- [How to use TailwindCSS&#39;s &quot;group-hover&quot; pseudo selector to coordinate multiple hover states at once](https://www.youtube.com/watch?v=V0jAgtjYq5c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Are you using Prettier? &lpar;how to set up in VSCode to format on save&rpar;](https://www.youtube.com/watch?v=Z1fLL_e9eKc)
+- [import cost extension - a great habit to get into as a web dev &lpar;VSCode&rpar;](https://www.youtube.com/watch?v=UN6u2qCuFmg)
+- [What does the TailwindCSS &quot;line-clamp&quot; plugin do?](https://www.youtube.com/watch?v=LeIuFo_ti3Q)
 - [How to use TailwindCSS&#39;s &quot;group-hover&quot; pseudo selector to coordinate multiple hover states at once](https://www.youtube.com/watch?v=V0jAgtjYq5c)
 - [A better way to inspect CSS Grid and Flexbox layouts in your browser dev-tools](https://www.youtube.com/watch?v=f9jUDDSiSsA)
-- [How i got faster working in VSCode](https://www.youtube.com/watch?v=SAWZeK93TyU)
-- [The BEST beginner web dev project for JS/TS devs to land first job](https://www.youtube.com/watch?v=Lp-ToEd_3qY)
-- [What is a &quot;Spread operator&quot; in JS / TS?](https://www.youtube.com/watch?v=mej7QLbr0pM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

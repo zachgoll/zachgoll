@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Should you use GraphQL for your project?](https://www.youtube.com/watch?v=bnG-0Q3JB0I)
 - [If you use TypeScript on the backend AND frontend, use zod for validation](https://www.youtube.com/watch?v=HZz6gDKhbx8)
 - [Why I use Insomnia instead of Postman](https://www.youtube.com/watch?v=VX8cK30ucOE)
 - [How to get out of Vim](https://www.youtube.com/watch?v=9aNA6PShiP4)
 - [Are you using Prettier? &lpar;how to set up in VSCode to format on save&rpar;](https://www.youtube.com/watch?v=Z1fLL_e9eKc)
-- [import cost extension - a great habit to get into as a web dev &lpar;VSCode&rpar;](https://www.youtube.com/watch?v=UN6u2qCuFmg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

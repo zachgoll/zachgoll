@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is &quot;headless&quot; software? &lpar;with examples&rpar;](https://www.youtube.com/watch?v=s118ePEc4U8)
 - [Why I use &quot;ts-paths&quot; to organize my TS projects &lpar;plus overview of my initial setup&rpar;](https://www.youtube.com/watch?v=8xBr21z2MCE)
 - [Should you use GraphQL for your project?](https://www.youtube.com/watch?v=bnG-0Q3JB0I)
 - [If you use TypeScript on the backend AND frontend, use zod for validation](https://www.youtube.com/watch?v=HZz6gDKhbx8)
 - [Why I use Insomnia instead of Postman](https://www.youtube.com/watch?v=VX8cK30ucOE)
-- [How to get out of Vim](https://www.youtube.com/watch?v=9aNA6PShiP4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

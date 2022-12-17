@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My 5 step process for building a new software feature &lpar;cliff notes&rpar;](https://www.youtube.com/watch?v=72FCHldL_Nc)
+- [What is Github Actions? &lpar;and why would I use it?&rpar;](https://www.youtube.com/watch?v=NTR7Wqgpf18)
 - [Why I use TailwindCSS](https://www.youtube.com/watch?v=jZ-NzAMWUVU)
 - [Should you learn AWS?](https://www.youtube.com/watch?v=RkRxmj6LXSc)
 - [How DNS Resolution works &lpar;amazon.com as example&rpar;](https://www.youtube.com/watch?v=jWerYQh-b5Y)
-- [What is &quot;headless&quot; software? &lpar;with examples&rpar;](https://www.youtube.com/watch?v=s118ePEc4U8)
-- [Why I use &quot;ts-paths&quot; to organize my TS projects &lpar;plus overview of my initial setup&rpar;](https://www.youtube.com/watch?v=8xBr21z2MCE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

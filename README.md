@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vanilla React 18 + TypeScript + Webpack](https://www.zachgollwitzer.com/posts/react18-typescript-webpack-vanilla-setup)
 - [File Upload Strategies with AWS S3, Node.js, Express, React, and Uppy](https://www.zachgollwitzer.com/posts/file-upload-strategies-s3-nodejs-express-react-uppy)
-- [Scripts vs. CommonJS vs. UMD vs. AMD vs. ES6 Modules](https://www.zachgollwitzer.com/posts/mac-development-setup)
+- [Scripts vs. CommonJS vs. UMD vs. AMD vs. ES6 Modules](https://www.zachgollwitzer.com/posts/scripts-commonjs-umd-amd-es6-modules)
 - [How to set up an RSS feed with Next.js in a Nrwl NX monorepo](https://www.zachgollwitzer.com/posts/rss-feed-nextjs-nrwl-nx)
 - [Setting up a Macbook for Software Development](https://www.zachgollwitzer.com/posts/mac-development-setup)
-- [How to build a Masonry Image Gallery + Lightbox with Next.js](https://www.zachgollwitzer.com/posts/nextjs-masonry-image-gallery-lightbox)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]

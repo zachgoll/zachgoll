@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How your browser loads, parses, and renders a webpage](https://www.zachgollwitzer.com/posts/how-browser-loads-parses-renders-webpage)
 - [React Forms Best Practices](https://www.zachgollwitzer.com/posts/react-forms-best-practices)
 - [The Secret Life of a React Component](https://www.zachgollwitzer.com/posts/lifecycle-of-react-component)
 - [Vanilla React 18 + TypeScript + Webpack](https://www.zachgollwitzer.com/posts/react18-typescript-webpack-vanilla-setup)
 - [File Upload Strategies with AWS S3, Node.js, Express, React, and Uppy](https://www.zachgollwitzer.com/posts/file-upload-strategies-s3-nodejs-express-react-uppy)
-- [Scripts vs. CommonJS vs. UMD vs. AMD vs. ES6 Modules](https://www.zachgollwitzer.com/posts/scripts-commonjs-umd-amd-es6-modules)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]

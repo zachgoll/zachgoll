@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Let&#39;s build a Vanilla HTML/CSS/JS Tic Tac Toe game!](https://www.youtube.com/watch?v=onSGAEanl_Y)
+- [Refactoring a subscriber&#39;s Tic Tac Toe Vanilla JavaScript Game! &lpar;intro&rpar;](https://www.youtube.com/watch?v=Vh0w5GewpOo)
 - [My 5 step process for building a new software feature &lpar;cliff notes&rpar;](https://www.youtube.com/watch?v=72FCHldL_Nc)
 - [What is Github Actions? &lpar;and why would I use it?&rpar;](https://www.youtube.com/watch?v=NTR7Wqgpf18)
 - [Why I use TailwindCSS](https://www.youtube.com/watch?v=jZ-NzAMWUVU)
-- [Should you learn AWS?](https://www.youtube.com/watch?v=RkRxmj6LXSc)
-- [How DNS Resolution works &lpar;amazon.com as example&rpar;](https://www.youtube.com/watch?v=jWerYQh-b5Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

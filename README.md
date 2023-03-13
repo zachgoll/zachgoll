@@ -1,14 +1,6 @@
-### Hi there, I'm Zach. I'm a full-stack dev living in Cincinnati, OH.
+### Hi there, I'm Zach. 
 
-**What I'm up to**:
-
-- I'm building [Maybe Finance](https://maybe.co/), a modern financial planning and investment app (it's pretty darn cool, you should definitely check us out!)
-- I get out to run as often as I can (hit me up on [Strava](https://www.strava.com/athletes/25085421)!)
-
-**Other projects / hobbies**
-
-- 🎥 When I have time, I enjoy making software tutorials on [YouTube][youtube].  I tried to do this on a schedule for a year but hated it.  So now, I post videos when I feel like I have something interesting to share or just feel like making one! 
-- 🏌 I have a golf blog, [The DIY Golfer][golfblog].  While I no longer actively update this site, it is the home to [Break 90 in 90 Days][golfapp], a training course for golfers trying to break 90 for the first time.
+I‘m a full-stack web/mobile developer living in Cincinnati, OH. By day, I do freelance development alongside a portfolio of products I‘m actively maintaining or building. I‘m currently working on [Local Golf Guide](https://www.zachgollwitzer.com/projects#local-golf-guide) and [teaching web development on YouTube](https://www.youtube.com/@zachgoll)!
 
 ### Connect with me:
 

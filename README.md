@@ -31,11 +31,11 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. By day, I do f
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to setup Fathom Analytics with Next.js 13 App Directory](https://www.zachgollwitzer.com/posts/fathom-analytics-nextjs13-app-directory)
 - [How your browser loads, parses, and renders a webpage](https://www.zachgollwitzer.com/posts/how-browser-loads-parses-renders-webpage)
 - [React Forms Best Practices](https://www.zachgollwitzer.com/posts/react-forms-best-practices)
 - [The Secret Life of a React Component](https://www.zachgollwitzer.com/posts/lifecycle-of-react-component)
 - [Vanilla React 18 + TypeScript + Webpack](https://www.zachgollwitzer.com/posts/react18-typescript-webpack-vanilla-setup)
-- [File Upload Strategies with AWS S3, Node.js, Express, React, and Uppy](https://www.zachgollwitzer.com/posts/file-upload-strategies-s3-nodejs-express-react-uppy)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]

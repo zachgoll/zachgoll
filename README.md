@@ -17,11 +17,11 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. By day, I do f
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why you should migrate your JS app to TypeScript &lpar;full beginner tutorial&rpar;](https://www.youtube.com/watch?v=8ekwEsTFLKg)
 - [Let&#39;s build a Vanilla HTML/CSS/JS Tic Tac Toe game!](https://www.youtube.com/watch?v=onSGAEanl_Y)
 - [Refactoring a subscriber&#39;s Tic Tac Toe Vanilla JavaScript Game! &lpar;intro&rpar;](https://www.youtube.com/watch?v=Vh0w5GewpOo)
 - [My 5 step process for building a new software feature &lpar;cliff notes&rpar;](https://www.youtube.com/watch?v=72FCHldL_Nc)
 - [What is Github Actions? &lpar;and why would I use it?&rpar;](https://www.youtube.com/watch?v=NTR7Wqgpf18)
-- [Why I use TailwindCSS](https://www.youtube.com/watch?v=jZ-NzAMWUVU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

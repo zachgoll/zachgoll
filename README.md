@@ -31,11 +31,11 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. By day, I do f
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Portfolio of Small Internet Businesses](https://www.zachgollwitzer.com/posts/portfolio-small-internet-businesses)
 - [Invisible ReCAPTCHA with Next.js and TypeScript &lpar;deferred script&rpar;](https://www.zachgollwitzer.com/posts/invisible-recaptcha-nextjs-typescript)
 - [How to setup Fathom Analytics with Next.js 13 App Directory](https://www.zachgollwitzer.com/posts/fathom-analytics-nextjs13-app-directory)
 - [How your browser loads, parses, and renders a webpage](https://www.zachgollwitzer.com/posts/how-browser-loads-parses-renders-webpage)
 - [React Forms Best Practices](https://www.zachgollwitzer.com/posts/react-forms-best-practices)
-- [The Secret Life of a React Component](https://www.zachgollwitzer.com/posts/lifecycle-of-react-component)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]

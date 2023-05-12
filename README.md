@@ -17,11 +17,11 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. By day, I do f
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The 3 reasons why I use TypeScript for my projects](https://www.youtube.com/watch?v=4jrY7H1Gv1s)
 - [Migrating an app from JavaScript 👉 TypeScript 👉 React &lpar;Tic Tac Toe beginner tutorial&rpar;](https://www.youtube.com/watch?v=rIzUYYWTTVs)
 - [Why you should migrate your JS app to TypeScript &lpar;full beginner tutorial&rpar;](https://www.youtube.com/watch?v=8ekwEsTFLKg)
 - [Let&#39;s build a Vanilla HTML/CSS/JS Tic Tac Toe game!](https://www.youtube.com/watch?v=onSGAEanl_Y)
 - [Refactoring a subscriber&#39;s Tic Tac Toe Vanilla JavaScript Game! &lpar;intro&rpar;](https://www.youtube.com/watch?v=Vh0w5GewpOo)
-- [My 5 step process for building a new software feature &lpar;cliff notes&rpar;](https://www.youtube.com/watch?v=72FCHldL_Nc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

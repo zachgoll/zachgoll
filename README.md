@@ -1,6 +1,6 @@
 ### Hi there, I'm Zach. 
 
-I‘m a full-stack web/mobile developer living in Cincinnati, OH. By day, I do freelance development alongside a portfolio of products I‘m actively maintaining or building. I‘m currently working on [Local Golf Guide](https://www.zachgollwitzer.com/projects#local-golf-guide) and [teaching web development on YouTube](https://www.youtube.com/@zachgoll)!
+I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance web development, build [golf websites](https://www.thediygolfer.com), and [teach web development on YouTube](https://www.youtube.com/@zachgoll).
 
 ### Connect with me:
 

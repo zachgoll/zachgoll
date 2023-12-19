@@ -17,11 +17,11 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js 14+ Complete Full Stack Course:  Build an Online Course Platform &lpar;intro&rpar;](https://www.youtube.com/watch?v=Hd4_QWVnskM)
 - [What does a DevOps engineer do?  &lpar;with Sid Palas from DevOps Directive&rpar;](https://www.youtube.com/watch?v=L0sTd2Kue18)
 - [The 3 reasons why I use TypeScript for my projects](https://www.youtube.com/watch?v=4jrY7H1Gv1s)
 - [Migrating an app from JavaScript 👉 TypeScript 👉 React &lpar;Tic Tac Toe beginner tutorial&rpar;](https://www.youtube.com/watch?v=rIzUYYWTTVs)
 - [Why you should migrate your JS app to TypeScript &lpar;full beginner tutorial&rpar;](https://www.youtube.com/watch?v=8ekwEsTFLKg)
-- [Let&#39;s build a Vanilla HTML/CSS/JS Tic Tac Toe game!](https://www.youtube.com/watch?v=onSGAEanl_Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

@@ -18,7 +18,7 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance
 
 <!-- YOUTUBE:START -->
 - [Watch me design a website in Figma &lpar;timelapse&rpar;](https://www.youtube.com/watch?v=upxRp0aceyg)
-- [Git + Github — Complete Beginners Deep Dive Tutorial](https://www.youtube.com/watch?v=NuAJrdCxZUQ)
+- [Git + Github — Full Beginner Course](https://www.youtube.com/watch?v=NuAJrdCxZUQ)
 - [How I&#39;d Learn Web Development in 2024 &lpar;if i had to start all over&rpar;](https://www.youtube.com/watch?v=xI408OyOe4s)
 - [Introduction | Next.js 14+ Complete Full Stack Course:  Build an Online Course Platform](https://www.youtube.com/watch?v=Hd4_QWVnskM)
 - [What does a DevOps engineer do?  &lpar;with Sid Palas from DevOps Directive&rpar;](https://www.youtube.com/watch?v=L0sTd2Kue18)

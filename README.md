@@ -19,8 +19,8 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance
 <!-- YOUTUBE:START -->
 - [Bash Course for Complete Beginners &lpar;sysadmin — terminal basics&rpar;](https://www.youtube.com/watch?v=ePWxJmorm9w)
 - [Lesson 1: Choosing a tech stack, building the data model | Next.js 14+ Full Stack Course](https://www.youtube.com/watch?v=p_VbUIo_vkk)
-- [Watch me design a website in Figma &lpar;timelapse&rpar;](https://www.youtube.com/watch?v=upxRp0aceyg)
-- [Git + Github — Full Beginner Course](https://www.youtube.com/watch?v=NuAJrdCxZUQ)
+- [Figma website design timelapse](https://www.youtube.com/watch?v=upxRp0aceyg)
+- [Git + Github Course for Complete Beginners](https://www.youtube.com/watch?v=NuAJrdCxZUQ)
 - [How I&#39;d Learn Web Development in 2024 &lpar;if i had to start all over&rpar;](https://www.youtube.com/watch?v=xI408OyOe4s)
 <!-- YOUTUBE:END -->
 

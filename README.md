@@ -17,11 +17,11 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lesson 4: Sanity CMS + Next.js Tutorial &lpar;next-sanity package&rpar; | Next.js 14+ Course](https://www.youtube.com/watch?v=buzvGncyg0Q)
 - [Lesson 3: Vercel deployment, Cloudflare DNS, Favicon, and Routing | Next.js 14+ Course](https://www.youtube.com/watch?v=WN5V-GusyOs)
 - [Lesson 2: Figma Design for Engineers | Next.js 14+ Full Stack Course](https://www.youtube.com/watch?v=BIoJfkYX68w)
 - [CSS Course for Complete Beginners](https://www.youtube.com/watch?v=jQr-bM6-XTc)
 - [HTML Course for Complete Beginners &lpar;with project&rpar;](https://www.youtube.com/watch?v=4jk56yH6gj4)
-- [Bash Course for Complete Beginners &lpar;sysadmin — terminal basics&rpar;](https://www.youtube.com/watch?v=ePWxJmorm9w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

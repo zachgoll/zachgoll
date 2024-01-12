@@ -17,11 +17,11 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript to React — The Complete Course](https://www.youtube.com/watch?v=BHsM7EBrH80)
 - [CSS Course for Complete Beginners](https://www.youtube.com/watch?v=jQr-bM6-XTc)
 - [HTML Course for Complete Beginners &lpar;with project&rpar;](https://www.youtube.com/watch?v=4jk56yH6gj4)
 - [Bash Course for Complete Beginners &lpar;sysadmin — terminal basics&rpar;](https://www.youtube.com/watch?v=ePWxJmorm9w)
 - [Git + Github Course for Complete Beginners](https://www.youtube.com/watch?v=NuAJrdCxZUQ)
-- [How I&#39;d Learn Web Development in 2024 &lpar;if i had to start all over&rpar;](https://www.youtube.com/watch?v=xI408OyOe4s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]

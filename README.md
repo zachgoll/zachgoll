@@ -17,7 +17,7 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [17 ChatGPT Prompts to learn coding FAST](https://www.youtube.com/watch?v=lI-V2FSN-Sw)
+- [17 ChatGPT prompts for coding &lpar;my favorites&rpar;](https://www.youtube.com/watch?v=lI-V2FSN-Sw)
 - [JavaScript to React — Full Beginner Project](https://www.youtube.com/watch?v=BHsM7EBrH80)
 - [CSS Course for Complete Beginners](https://www.youtube.com/watch?v=jQr-bM6-XTc)
 - [HTML Course for Complete Beginners &lpar;with project&rpar;](https://www.youtube.com/watch?v=4jk56yH6gj4)

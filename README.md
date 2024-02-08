@@ -1,6 +1,6 @@
 ### Hi there, I'm Zach. 
 
-I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance web development, build [golf websites](https://www.thediygolfer.com), and [teach web development on YouTube](https://www.youtube.com/@zachgoll).
+I‘m a full-stack web/mobile developer living in Cincinnati, OH.  I'm working on [Maybe](https://github.com/maybe-finance/maybe), a COSS personal finance app.  I also maintain a few [golf websites](https://www.thediygolfer.com/) and run [Full Stack Foundations](https://www.fullstackfoundations.com/).  You can learn more about myself and the projects I'm involved in [here](https://www.zachgollwitzer.com).
 
 ### Connect with me:
 

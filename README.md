@@ -12,34 +12,6 @@ I‘m a full-stack web/mobile developer living in Cincinnati, OH. I do freelance
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [17 ChatGPT prompts for coding &lpar;my favorites&rpar;](https://www.youtube.com/watch?v=lI-V2FSN-Sw)
-- [JavaScript to React — Full Beginner Project](https://www.youtube.com/watch?v=BHsM7EBrH80)
-- [CSS Course for Complete Beginners](https://www.youtube.com/watch?v=jQr-bM6-XTc)
-- [HTML Course for Complete Beginners &lpar;with project&rpar;](https://www.youtube.com/watch?v=4jk56yH6gj4)
-- [Bash Course for Complete Beginners &lpar;sysadmin — terminal basics&rpar;](https://www.youtube.com/watch?v=ePWxJmorm9w)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [PHP for JavaScript Devs](https://www.zachgollwitzer.com/posts/php-for-javascript-devs)
-- [How I do SEO Keyword Research](https://www.zachgollwitzer.com/posts/how-i-do-seo-keyword-research)
-- [A Portfolio of Small Internet Businesses](https://www.zachgollwitzer.com/posts/portfolio-small-internet-businesses)
-- [Invisible ReCAPTCHA with Next.js and TypeScript &lpar;deferred script&rpar;](https://www.zachgollwitzer.com/posts/invisible-recaptcha-nextjs-typescript)
-- [How to setup Fathom Analytics with Next.js 13 App Directory](https://www.zachgollwitzer.com/posts/fathom-analytics-nextjs13-app-directory)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][website]
-
 [website]: https://www.zachgollwitzer.com
 [twitter]: https://twitter.com/zg_dev
 [youtube]: https://www.youtube.com/@zachgoll
